@@ -25,3 +25,7 @@
 
 - 本仓库：项目门户与跳转页
 - 游戏本体托管于 WorkBuddy 云应用（源码见本地项目 `ice-and-fire-adventure/`）
+
+## 关注公众号
+
+![公众号二维码](qrcode.jpg)
